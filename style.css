@@ -1,0 +1,74 @@
+
+
+body{
+    background-color: brown;
+}
+   .bigbox{
+    width: 40vw;
+    height:50vh ;
+    margin: 0 auto;
+   } 
+   
+    .another{
+        background-color: aqua;
+        width: 10%;
+    }
+    
+   
+.nas{
+    display: flex;
+    gap: 1rem;
+}
+
+.one{
+    color: white;
+}
+.two{
+    color: aqua;
+}
+.tree{
+    color: white;
+}
+.nas{
+    display: flex;
+    justify-content: end;
+}
+.wave{
+    border-radius: 50%;
+    width: 5%;
+    height: 5%;
+}
+.image{
+    display: flex;
+    justify-content: flex-start;
+}
+.all{
+    display: flex;
+    gap: 1rem;
+}
+.byona{
+    display: flex;
+    gap: 5rem;
+}
+.button{
+    display: flex;
+    justify-content: end;
+    gap: 10rem;
+}
+.hehe{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5rem;
+}
+.submit{
+    width: 50%;
+    height: 30%;
+    display: flex;
+    
+}
+.buble{
+    display: flex;
+}
+
+
+
